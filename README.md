@@ -8,7 +8,7 @@
     💻  Bases de Datos: SQL -PostgreSQL - Sequelize - SQLite 
 
 Siempre tuve una afición por la tecnología, luego de finalizar mis estudios secundarios sabia que me gustaban dos cosas:
-    🤩📚 La computación y la psicología.
+#### 🤩📚 La computación y la psicología.
 
 Comencé trabajando en un consultorio médico, orientado a labores administrativas y efectuando mis estudios en psicología en la UBA.
 Gracias a esto logre conseguir mi primera computadora armada por mi mismo, luego de una ardua investigación sobre como hacerlo y que componentes requería. 
