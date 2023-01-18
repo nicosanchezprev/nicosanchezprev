@@ -1,6 +1,6 @@
-### 🙋‍♂️👋Hola! Soy Nicolás, un Desarrollador Web Full Stack, recibido en soyHenry.
+# 🙋‍♂️👋Hola! Soy Nicolás, un Desarrollador Web Full Stack, recibido en soyHenry.
 
-## Cuento con conocimientos sobre: 
+### Cuento con conocimientos sobre: 
     💻  Front End: HTML - CSS - CSS Modules - SASS - Bootstrap - JavaScript - TypeScript - React.js - Redux
     
     💻  Back End: Node.js - Express - NPM - Mas librerías enfocadas al segmento backend.
