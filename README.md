@@ -1,22 +1,17 @@
-## 🙋‍♂️👋Hola! Soy Nicolás, un Desarrollador Web Full Stack recibido en soyHenry.
-
-### Cuento con conocimientos sobre: 
-    💻  Front End: HTML - CSS - CSS Modules - SASS - Bootstrap - JavaScript - TypeScript - React.js - Redux
+## 🙋‍♂️👋 Hello! I'm Nicolás, a Full Stack Web Developer, graduated from soyHenry.
+### I have knowledge about: 
+    💻 Front End: HTML - CSS - CSS Modules - SASS - Bootstrap - JavaScript - TypeScript - React.js - Redux 
     
-    💻  Back End: Node.js - Express - NPM - Mas librerías enfocadas al segmento backend.
+    💻 Back End: Node.js - Express - NPM - More libraries focused on the backend segment. 
     
-    💻  Bases de Datos: SQL -PostgreSQL - Sequelize - SQLite 
+    💻 Databases: SQL -PostgreSQL - Sequelize - SQLite
 
-Siempre tuve una afición por la tecnología, luego de finalizar mis estudios secundarios sabia que me gustaban dos cosas:
-#### 🤩📚 La computación y la psicología.
+I always had a love for technology, after finishing my secondary studies I knew that I liked two things: 
+#### 🤩📚 Computing and psychology.
+I started working in a doctor's office, oriented towards administrative tasks and doing my studies in psychology at the UBA. Thanks to this, I managed to get my first computer assembled by myself, after an arduous investigation on how to do it and what components it required. That was my first foray into technology, from that, due to my own research and curiosity, I was able to delve into web development courses. 
+Today, as a full stack developer, I am looking for improve and increase my knowledge day by day in the IT work environment.
 
-Comencé trabajando en un consultorio médico, orientado a labores administrativas y efectuando mis estudios en psicología en la UBA.
-Gracias a esto logre conseguir mi primera computadora armada por mi mismo, luego de una ardua investigación sobre como hacerlo y que componentes requería. 
-Esa fue mi primera incursión en tecnología, a partir de eso, por investigación y curiosidad propia pude adentrarme en cursos de desarrollo web.
-
-Hoy en día ya siendo desarrollador full stack busco mejorar y aumentar mis conocimientos día a día en el ambiente laboral IT.
-
-### Si quieres conocer un poco mas sobre mi, ver algunos de mis proyectos personales o quizá contactarme, puedes encontrarme aquí:
-    📞 Linkedin: https://www.linkedin.com/in/nicosanchezp/
+### If you want to know a little more about me, see some of my personal projects or maybe contact me, you can find me here: 
+    📞 Linkedin: https://www.linkedin.com/in/nicosanchezp/ 
     
     📞 Email: nicosanchez0103@gmail.com
