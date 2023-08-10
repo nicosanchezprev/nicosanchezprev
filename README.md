@@ -2,9 +2,9 @@
 ### I have knowledge about: 
     💻 Front End: HTML - CSS - CSS Modules - SASS - Bootstrap - JavaScript - TypeScript - React.js - Redux 
     
-    💻 Back End: Node.js - Express - NPM - More libraries focused on the backend segment. 
+    💻 Back End: Node.js - Express - NPM
     
-    💻 Databases: SQL -PostgreSQL - Sequelize - SQLite
+    💻 Databases: SQL -PostgreSQL - Sequelize - SQLite - NOSQL - MongoDB - Mongoose
 
 I always had a love for technology, after finishing my secondary studies I knew that I liked two things: 
 #### 🤩📚 Computing and psychology.
